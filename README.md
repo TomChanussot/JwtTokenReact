@@ -1,2 +1,2 @@
 # JwtTokenReact
-React front end project managing JWT access token and refresh token
+React front end project for authentication with JWT access token. It also manage JWT refresh token in HttpOnly cookie.
